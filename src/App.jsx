@@ -6,5 +6,6 @@ export const App = () => (
   <>
     <Header />
     <h1>Hello world from Kobaken.</h1>
+		<p>hello from test branch</p>
   </>
 );
